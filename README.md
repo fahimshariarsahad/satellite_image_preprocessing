@@ -12,7 +12,7 @@ Below I outline briefly the main steps in the workflow that i have done with the
 
 | Task | Summary |
 | --- | --- |
-| Image acquisition | Obtained Sentinel-2 satellite images from [Copernicus]([https://www.copernicus.eu/en]) in TIFF and JP2 formats. |
+| Image acquisition | Obtained Sentinel-2 satellite images from [Copernicus](https://www.copernicus.eu/en) in TIFF and JP2 formats. |
 | Feature extraction | Preprocessing Normalization, resizing, and fragmenting the images for analysis. |
 | Extracted spectral signatures | Extracted spectral signatures from the satellite images of different bands including B02, B04, B08, TCI, WVP etc. |
 | Model building | Data splitting	Divided the dataset into 80% training and 20% testing data. |
